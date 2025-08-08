@@ -1,0 +1,29 @@
+1. Which cuisines are most popular in terms of customer ratings and votes?
+→ Helps Zomato recommend trending cuisines or expand partnerships.
+
+2. Which cities have the highest concentration of high-rated restaurants?
+→ Supports decisions on regional marketing and expansion focus.
+
+3. Do restaurants that offer online delivery get higher ratings than those that don't?
+→ Evaluates the impact of delivery services on customer satisfaction.
+
+4. Is there a correlation between average cost and restaurant rating?
+→ Determines whether premium pricing aligns with customer satisfaction.
+
+5. Which restaurants have high ratings but low votes?
+→ Identifies hidden gems that may need more visibility or marketing.
+
+6. How does table booking availability affect restaurant ratings?
+→ Can help promote reservation-based models if correlation is strong.
+
+7. Which cities or localities show a demand-supply gap for highly-rated cuisines?
+→ Reveals underserved areas with business potential.
+
+8. What price range category (1–4) has the most 'Excellent' ratings?
+→ Guides pricing strategies for restaurants.
+
+9. Which countries/currencies show the most engagement (high votes + ratings)?
+→ Useful for international strategy and localization.
+
+10. What are the most common cuisine combinations in high-rated restaurants?
+→ Helps restaurants create competitive menus.
